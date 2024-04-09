@@ -11,8 +11,8 @@
 
 # :bangbang: GitHub Stats:
 <a href="https://github.com/luaa27">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaa27&layout=compact&langs_count=7&theme=rose"/>
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=luaa27&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luaa27&layout=compact&langs_count=7&theme=omni"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=luaa27&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
 
 
